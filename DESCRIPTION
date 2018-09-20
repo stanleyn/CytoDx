@@ -9,7 +9,7 @@ License: GPL-2
 Encoding: UTF-8
 LazyData: true
 Imports: doParallel, dplyr, glmnet, rpart, rpart.plot, stats, flowCore,grDevices, graphics, utils
-Depends: R (>= 3.5)
+Depends: R (>= 3.3)
 Suggests: knitr
 VignetteBuilder: knitr
 RoxygenNote: 6.1.0
